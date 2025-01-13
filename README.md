@@ -8,35 +8,35 @@ This repository contains PowerBI visualizations and insights derived from the an
 ---
 
 
-### 1. **Snippet 1: Overview of User Metrics**
+### 1. **Overview of User Metrics**
 This snippet highlights the user demographics and usage patterns. It provides a breakdown of the active users, new sign-ups, and recurring users over a specific time period.
 
 ![image](https://github.com/user-attachments/assets/342e0f34-46e4-4781-b1cc-fa2f5b687600)
 
 ---
 
-### 3. **Snippet 3: Vehicle Type**
+### 2. **Vehicle Type**
 This snippet visualizes user engagement levels with different vehicles, including average distance traveled, booking value, and total distance traveled by each vehicle.
 
 ![image](https://github.com/user-attachments/assets/1768cb2e-988b-47b4-9288-ce388b8b288c)
 
 ---
 
-### 2. **Snippet 2: Revenue Analysis**
+### 3. **Revenue Analysis**
 This snippet focuses on revenue generation metrics. It showcases revenue trends across different Vehicles.
 
 ![image](https://github.com/user-attachments/assets/a329dff6-56d8-461e-b1fd-fedd70fbd669)
 
 ---
 
-### 4. **Snippet 4: Cancellation Metrics**
+### 4. **Cancellation Metrics**
 This snippet focuses on cancellation data, highlighting the reasons and trends for subscription cancellations.
 
 ![image](https://github.com/user-attachments/assets/4992d3d4-329a-44d7-ba1d-1867b5ad1f3d)
 
 ---
 
-### 5. **Snippet 5: Ratings and Feedback**
+### 5. **Ratings and Feedback**
 This snippet provides insights into ratings of both, drivers and customers. It highlights the overall satisfaction levels.
 
 ![image](https://github.com/user-attachments/assets/8a9055a9-08a1-41f4-8aef-fa759452ce12)

@@ -18,14 +18,14 @@ This snippet highlights the user demographics and usage patterns. It provides a 
 ### 3. **Snippet 3: Vehicle Type**
 This snippet visualizes user engagement levels with different vehicles, including average distance traveled, booking value, and total distance traveled by each vehicle.
 
-![image](https://github.com/user-attachments/assets/a329dff6-56d8-461e-b1fd-fedd70fbd669)
+![image](https://github.com/user-attachments/assets/1768cb2e-988b-47b4-9288-ce388b8b288c)
 
 ---
 
 ### 2. **Snippet 2: Revenue Analysis**
 This snippet focuses on revenue generation metrics. It showcases revenue trends across different Vehicles.
 
-![image](https://github.com/user-attachments/assets/1768cb2e-988b-47b4-9288-ce388b8b288c)
+![image](https://github.com/user-attachments/assets/a329dff6-56d8-461e-b1fd-fedd70fbd669)
 
 ---
 
